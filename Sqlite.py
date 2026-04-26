@@ -50,7 +50,7 @@ def Licencia():
     messagebox.showinfo("Licencia", "Software libre - Uso educativo")
 
 def AcercaDe():
-    messagebox.showinfo("Acerca de", "CRUD App v1.0 - Creado por Kevin y por Claude")
+    messagebox.showinfo("Acerca de", "Gestor de Tareas v1.0 - Desarrollado por Kevin")
 
 
 #---------Funcion Create-------------------
