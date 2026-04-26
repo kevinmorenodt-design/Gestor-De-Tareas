@@ -7,7 +7,7 @@ import os
 from tkcalendar import DateEntry
 import datetime
 
-print(os.getcwd())
+
 
 
 
